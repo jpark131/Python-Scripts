@@ -1,4 +1,4 @@
-"""Quick library for pinging a network device"""
+"""Quick package for pinging a network device"""
 import os
 import shlex
 import subprocess as sp
