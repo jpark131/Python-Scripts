@@ -24,7 +24,7 @@ def ssh_execute(host, command):
     print(output[0])
 
 def main():
-    ssh_execute("rd8n-pi", "ping -c 4 10.0.0.10")
+    pass
 
 if __name__ == "__main__":
     main()
